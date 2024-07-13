@@ -1,0 +1,31 @@
+.btn {
+    background-color: green;
+}
+
+header {
+    height: 100px;
+    background-color: blueviolet;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.row {
+    justify-content: center;
+    gap: 20px;
+}
+
+section {
+    margin: 40px;
+}
+
+footer {
+    height: 90px;
+    background-color: black;
+    color: white;
+    display: flex   ;
+    justify-content: center;
+    align-items: center;
+
+}
